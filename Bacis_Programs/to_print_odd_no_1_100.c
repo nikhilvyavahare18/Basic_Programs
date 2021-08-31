@@ -2,7 +2,7 @@
 void main()
 {
     int n,i;
-    printf("even Numbers are\n");
+    printf("Odd Numbers are\n");
     i=1;
     while(i<=100)
     {
