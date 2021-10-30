@@ -12,7 +12,6 @@ void main()
         {
             printf("%d\n",i);
         }
-        
         printf("sum of even numbers for 1 to %dis %d\n", n, sum);
     }
 }
